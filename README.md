@@ -77,10 +77,3 @@ Zaman geçmesi            - -0.005
 - SkipFrames, PreprocessFrame ve StackFrames ile çevre ön işlemesi yapılır.
 - ReplayMemory ile önceki deneyimler tekrar kullanılır.
 
-📬 İletişim
-
-Eğer bu projeyle ilgileniyorsanız veya katkı sağlamak isterseniz, lütfen bir issue açın ya da PR gönderin!
-
-📄 Lisans
-
-Bu proje MIT lisansı ile lisanslanmıştır.
