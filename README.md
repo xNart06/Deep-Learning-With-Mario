@@ -2,6 +2,8 @@
 
 Bu proje, klasik Super Mario Bros oyununu oynamayı öğrenen bir yapay zeka ajanı geliştirmeyi amaçlamaktadır. Ajan, Deep Q-Network (DQN) algoritması ile eğitilmiştir. Takviyeli öğrenme (Reinforcement Learning) temelli bu çalışma, görsel girdilerden öğrenip strateji geliştiren bir yapay zeka modelinin oyun ortamında nasıl çalıştığını göstermektedir.
 
+![video](gif.gif)
+
 📌 Özellikler
 
 - 🎯 Takviyeli öğrenme ile oyun oynayan ajan
